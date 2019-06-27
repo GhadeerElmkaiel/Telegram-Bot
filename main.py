@@ -1,5 +1,7 @@
-!pip install pyTelegramBotAPI
-!pip install python-telegram-bot
+
+## you need to download these library 
+## !pip install pyTelegramBotAPI
+## !pip install python-telegram-bot
 
 
 #print(TOKEN) #
